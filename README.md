@@ -1,8 +1,8 @@
 # 🚀 Project: Icarus — Sci-Fi Survival Text Adventure
 
 [![Language](https://img.shields.io/badge/Language-Python%203-blue.svg)](https://www.python.org/)
-[![Topic](https://img.shields.io/badge/Category-Game%20Dev-orange.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Terminal%20%2F%20Console-lightgrey.svg)]()
+[![Topic](https://img.shields.io/badge/Category-Game%20Dev-orange.svg)](https://github.com/topics/game-development)
+[![Platform](https://img.shields.io/badge/Platform-Terminal%20%2F%20Console-lightgrey.svg)](https://en.wikipedia.org/wiki/Text-based_game)
 
 **Project: Icarus** is an immersive, text-based sci-fi survival puzzle game written entirely in Python. The player takes on the role of a surviving crew member aboard the deep-space research vessel *Icarus* following a catastrophic hull breach. With oxygen levels dropping and a rogue mainframe locking down the ship, you must use logic, resource management, and problem-solving to survive and reset the ship's core.
 
